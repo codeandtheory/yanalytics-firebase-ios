@@ -1,4 +1,4 @@
-# Y—Analytics Firebase
+![Y—Analytics Firebase](https://user-images.githubusercontent.com/1037520/220589412-c70b47e6-dcd8-4984-92c8-7cc646deb046.jpeg)
 _A Firebase implementation of Y—Analytics' `AnalyticsEngine` protocol._
 
 This framework links the [Firebase iOS SDK](https://github.com/firebase/firebase-ios-sdk) to implement a Firebase version of [Y—Analytics](https://github.com/yml-org/yanalytics-ios)' `AnalyticsEngine` protocol.
@@ -6,6 +6,7 @@ This framework links the [Firebase iOS SDK](https://github.com/firebase/firebase
 Licensing
 ----------
 Y—Analytics Firebase is licensed under the [Apache 2.0 license](LICENSE).
+
 Firebase iOS SDK is licensed under the [Apache 2.0 license](https://github.com/firebase/firebase-ios-sdk/blob/master/LICENSE)
 
 Documentation
