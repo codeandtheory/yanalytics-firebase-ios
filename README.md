@@ -66,6 +66,12 @@ final class AppCoordinator {
 }
 ```
 
+Dependencies
+----------
+
+Y—AnalyticsFirebase depends upon our [Y—Analytics](https://github.com/yml-org/yanalytics-ios) framework (which is also open source and Apache 2.0 licensed).
+
+
 Installation
 ----------
 
